@@ -1,7 +1,7 @@
 # SSM-ChaoShi
 基于JAVA SSM框架和JSP的超市管理系统设计
 
-演示视频链接：https://live.csdn.net/v/326176
+演示视频链接：https://www.bilibili.com/video/BV1oF41167MP/
 
 使用的技术
 
